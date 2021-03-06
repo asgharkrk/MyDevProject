@@ -28,7 +28,10 @@ password admin
  give it a name
  click on free style project
  click on apply save
+ click on git paste the URL
  scroll down to the page and click on build steps
  write echco "any msg "
  click on save and build the project
+
+ break till 12:00
 
