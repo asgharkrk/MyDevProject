@@ -1,0 +1,10 @@
+Jenkins:
+what are serves why we need them:
+1) Stay power on all the time ()
+2) Strong internet connection(in GBps) all the time
+3) A lot of resources like RAM Disk etc
+============================================
+1) Developers will develops the code
+2) Runs the unit tests if everything goes well
+ask the DevOps person to build that code and deploy the code on Dev servers
+3) Developer verifies that code on Dev server
